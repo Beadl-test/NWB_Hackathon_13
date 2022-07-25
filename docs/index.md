@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# BEADL @ 13th NWB Hackathon User Days
 
-You can use the [editor on GitHub](https://github.com/Beadl-test/NWB_Hackathon_13/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks so much for interest in the BEADL - the BEhavioral tAsk Description Language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## BEADL beta user sign up
+Before being able to access the current beta version of the BEADL editor, you have to fill out the sign up sheet accessible via link [https://forms.office.com/r/CrFCDzh3rP](https://forms.office.com/r/CrFCDzh3rP) or QR code:
+![](./images/qr_code_sign_up.png)
+## BEADL tutorial
+The instructions for the BEADL tutorial will be available soon.
 
-### Markdown
+## We value your feedback
+We appreciate your time and efforts while using the current beta version of BEADL. Your feedback is important to us, as we want to improve BEADL to meet the neuroscience community's requirements and needs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please use the form accessible via link [https://forms.office.com/r/gHZm6F58P4](https://forms.office.com/r/gHZm6F58P4) or QR code below to leave your feedback.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beadl-test/NWB_Hackathon_13/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you!
+![Image not found: ./images/qr_code_feedback.png](./images/qr_code_feedback.png "Image not found: ./images/qr_code_feedback.png")
+## Contact
+If you have questions, feedback or general request, please contact Michael Wulf via email michael.wulf (at) wustl.edu
