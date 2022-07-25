@@ -4,7 +4,7 @@ Thanks so much for interest in the BEADL - the BEhavioral tAsk Description Langu
 
 ## BEADL beta user sign up
 Before being able to access the current beta version of the BEADL editor, you have to fill out the sign up sheet accessible via link [https://forms.office.com/r/CrFCDzh3rP](https://forms.office.com/r/CrFCDzh3rP) or QR code:
-![QR Code Sign Up](/images/qr_code_sign_up.png)
+![QR Code Sign Up](images/qr_code_sign_up.png)
 
 ## BEADL tutorial
 The instructions for the BEADL tutorial will be available soon.
@@ -16,6 +16,6 @@ Please use the form accessible via link [https://forms.office.com/r/gHZm6F58P4](
 
 Thank you!
 
-![QR Code feeback](/images/qr_code_feedback.png)
+![QR Code feeback](images/qr_code_feedback.png)
 ## Contact
 If you have questions, feedback or general request, please contact Michael Wulf via email michael.wulf (at) wustl.edu
