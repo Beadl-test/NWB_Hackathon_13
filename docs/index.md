@@ -1,7 +1,3 @@
-# BEADL @ 13th NWB Hackathon User Days
-
-Thanks so much for interest in the BEADL - the BEhavioral tAsk Description Language.
-
 ## BEADL beta user sign up
 Before being able to access the current beta version of the BEADL editor, you have to fill out the sign up sheet accessible via link [https://forms.office.com/r/CrFCDzh3rP](https://forms.office.com/r/CrFCDzh3rP) or QR code:
 
