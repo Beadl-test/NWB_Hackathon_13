@@ -11,7 +11,5 @@ Please use the form accessible via link [https://forms.office.com/r/gHZm6F58P4](
 
 Thank you!
 
-![](qr_code_feedback.png)
-
 ## Contact
 If you have questions, feedback or general request, please contact Michael Wulf via email michael.wulf (at) wustl.edu

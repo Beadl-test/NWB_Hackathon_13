@@ -7,3 +7,7 @@ The trial type, which speaker should present more clicks (and which behavioral p
 
 ## Trial Description
 To initialize a new trial, the white LED in the center port is turned on and the system waits until the mouse pokes into the center port. As soon as that happens, the stimulus is being presented for 5 seconds. If the animal identifies the correct side, it is being rewarded. If the animal misses to report its decision within the 5 second time window or selects the wrong port, the TimeOut is being introduced as some form of punishment. After either delivering the reward or pausing the trial, an Inter-Trial-Interval of a pre-defined duration is being added to the end of the trial.
+
+## Tips
+- While implementing the task, work yourself through the five different tabs inside the BEADL Designer from "left to right"
+- Look at the template implementation of the Light Chasing Task at the BEADL [online documentation](https://beadl-test.github.io/BEADL_Editor/BEADL_Template_LightChasingTask.html)
